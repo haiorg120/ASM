@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\1968b911-64de-44af-ab2d-8f46a17240b1_GO93KAVaYAAi1wk.jpg",
+      "PackagePath": "staticwebassets\\images\\1968b911-64de-44af-ab2d-8f46a17240b1_GO93KAVaYAAi1wk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\23c06eb8-c744-427f-a02d-352816c6ca3d_GO93KAVaYAAi1wk.jpg",
+      "PackagePath": "staticwebassets\\images\\23c06eb8-c744-427f-a02d-352816c6ca3d_GO93KAVaYAAi1wk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\30ffcc6f-7e30-4dc2-9743-53d104f61bc3_anh3.webp",
+      "PackagePath": "staticwebassets\\images\\30ffcc6f-7e30-4dc2-9743-53d104f61bc3_anh3.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\3913555b-ae7a-4252-9bcf-c5d8a23b10c2_database.png",
+      "PackagePath": "staticwebassets\\images\\3913555b-ae7a-4252-9bcf-c5d8a23b10c2_database.png"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\3bda3aa5-b801-4b21-86fe-6eeac4ea86d7_GNdEzRdb0AAzmrk.jpg",
+      "PackagePath": "staticwebassets\\images\\3bda3aa5-b801-4b21-86fe-6eeac4ea86d7_GNdEzRdb0AAzmrk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\45db4b6b-c38a-478e-9f0a-221dd0e3ca0d_high-noon-talon-prestige-edition-skin-2k-wallpaper-uhdpaper.com-130@1@h.jpg",
+      "PackagePath": "staticwebassets\\images\\45db4b6b-c38a-478e-9f0a-221dd0e3ca0d_high-noon-talon-prestige-edition-skin-2k-wallpaper-uhdpaper.com-130@1@h.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\486d7f09-8c31-4c81-984b-fe855519c61d_GO93KAVaYAAi1wk.jpg",
+      "PackagePath": "staticwebassets\\images\\486d7f09-8c31-4c81-984b-fe855519c61d_GO93KAVaYAAi1wk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\500c37c2-76eb-4db9-a49c-a4ea7d858de2_cv-xin-viec-don-gian-careerbuilder-2.webp",
+      "PackagePath": "staticwebassets\\images\\500c37c2-76eb-4db9-a49c-a4ea7d858de2_cv-xin-viec-don-gian-careerbuilder-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\603c9309-0560-4977-80d9-67df4ccd6c7a_high-noon-talon-prestige-edition-skin-2k-wallpaper-uhdpaper.com-130@1@h.jpg",
+      "PackagePath": "staticwebassets\\images\\603c9309-0560-4977-80d9-67df4ccd6c7a_high-noon-talon-prestige-edition-skin-2k-wallpaper-uhdpaper.com-130@1@h.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\6feb86bc-4f26-4fc3-9dfa-c80ab73db191_anh2.webp",
+      "PackagePath": "staticwebassets\\images\\6feb86bc-4f26-4fc3-9dfa-c80ab73db191_anh2.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\75bfc906-f7df-4c5b-b718-3fc86282dd0e_anh-cv-chuyen-nghiep-careerbuilder01.webp",
+      "PackagePath": "staticwebassets\\images\\75bfc906-f7df-4c5b-b718-3fc86282dd0e_anh-cv-chuyen-nghiep-careerbuilder01.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\80fc3c61-bd15-4c22-8013-0956e1d2f873_cv-xin-viec-don-gian-careerbuilder-2.webp",
+      "PackagePath": "staticwebassets\\images\\80fc3c61-bd15-4c22-8013-0956e1d2f873_cv-xin-viec-don-gian-careerbuilder-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\8a9a7e57-ddad-47dc-951a-4d91b26356a3_21add1c73f91074805262219603486f2.webp",
+      "PackagePath": "staticwebassets\\images\\8a9a7e57-ddad-47dc-951a-4d91b26356a3_21add1c73f91074805262219603486f2.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\9ee049bc-17c3-47e5-a44b-9104f0460692_GO93KAVaYAAi1wk.jpg",
+      "PackagePath": "staticwebassets\\images\\9ee049bc-17c3-47e5-a44b-9104f0460692_GO93KAVaYAAi1wk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\a0ccb83d-7cb7-407f-899d-52c1f759586b_GO93KAVaYAAi1wk.jpg",
+      "PackagePath": "staticwebassets\\images\\a0ccb83d-7cb7-407f-899d-52c1f759586b_GO93KAVaYAAi1wk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\b1afb35b-9c20-4083-901d-9cd2775d63ec_cv-xin-viec-don-gian-careerbuilder-2.webp",
+      "PackagePath": "staticwebassets\\images\\b1afb35b-9c20-4083-901d-9cd2775d63ec_cv-xin-viec-don-gian-careerbuilder-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\ccbd9662-f344-453d-82ac-6650c2406f53_GNdEzRdb0AAzmrk.jpg",
+      "PackagePath": "staticwebassets\\images\\ccbd9662-f344-453d-82ac-6650c2406f53_GNdEzRdb0AAzmrk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\dc4754aa-8858-4969-9ceb-b182911f0d9f_anh-cv-chuyen-nghiep-careerbuilder01.webp",
+      "PackagePath": "staticwebassets\\images\\dc4754aa-8858-4969-9ceb-b182911f0d9f_anh-cv-chuyen-nghiep-careerbuilder01.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\f2117c33-5338-4dd1-bbc1-9f48dcf8070d_GO93KAVaYAAi1wk.jpg",
+      "PackagePath": "staticwebassets\\images\\f2117c33-5338-4dd1-bbc1-9f48dcf8070d_GO93KAVaYAAi1wk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\f2cc61da-725c-4441-aac2-a6df70f4e92a_cv-xin-viec-don-gian-careerbuilder-2.webp",
+      "PackagePath": "staticwebassets\\images\\f2cc61da-725c-4441-aac2-a6df70f4e92a_cv-xin-viec-don-gian-careerbuilder-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\f9fd0f72-8064-40d6-a198-e766c4a92cad_anh4.webp",
+      "PackagePath": "staticwebassets\\images\\f9fd0f72-8064-40d6-a198-e766c4a92cad_anh4.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\images\\fd8c93af-00f5-4a7a-ad6b-3f7e8edd5984_anh-cv.jpg",
+      "PackagePath": "staticwebassets\\images\\fd8c93af-00f5-4a7a-ad6b-3f7e8edd5984_anh-cv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\img\\logo.webp",
+      "PackagePath": "staticwebassets\\img\\logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anhem\\Downloads\\Project-20241004T094612Z-001\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project.props",
+      "PackagePath": "build\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.props",
+      "PackagePath": "buildMultiTargeting\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project.props",
+      "PackagePath": "buildTransitive\\Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
